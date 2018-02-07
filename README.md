@@ -1,1 +1,17 @@
-# wangxin2018
+# NOTE
+
+> Java
+
+> Spring
+
+> React
+
+> Liunx
+
+> Python
+
+> BigData
+
+> DB
+
+> 
